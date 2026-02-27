@@ -14,7 +14,7 @@ public class UImanager : MonoBehaviour
     public void StartGame()
     {
        GameManager.Instance.PlayerName= playerInputField.text ;
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
     // Update is called once per frame
     void Update()

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Cube : Shape
+public class Cubex : Shape
 {
     private void Start()
     {
